@@ -1,4 +1,4 @@
-# CE204 - Data Structures and Algorithms taught by Dr. David Richerby
+# CE204 - Data Structures and Algorithms
 
 ## The details
 Year: 2024/25 <br>
@@ -32,5 +32,10 @@ Shortest paths, minimum cost spanning trees
 Algorithm analysis: time and space complexity
 
 ### Computability, uncomputable functions and the halting problem
+
+## Module supervisor and teaching staff
+Supervisor: Dr David Richerby, email: david.richerby@essex.ac.uk <br>
+Teaching staff: Dr David Richerby <br>
+Contact details: School Office, email: csee-schooloffice (non-Essex users should add @essex.ac.uk to create full e-mail address), Telephone 01206 872770 <br>
 
 # Source of the info: https://www1.essex.ac.uk/modules/default.aspx?coursecode=CE204&level=5&period=AU&campus=CO&year=24
